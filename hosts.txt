@@ -1,10 +1,1 @@
-198.41.220.100 discord.com
-198.41.220.100 discordapp.com
-198.41.220.100 dl.discordapp.net
-198.41.220.100 gateway.discord.gg
-198.41.220.100 status.discordapp.com
-198.41.220.100 cdn.discordapp.com
-198.41.220.100 media.discordapp.net
-198.41.220.100 images-ext-2.discordapp.net
-198.41.220.100 images-ext-1.discordapp.net
-198.41.220.100 discordcdn.com
+1
